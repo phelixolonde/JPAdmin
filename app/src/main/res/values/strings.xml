@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JP Admin</string>
+    <string name="action_settings">Settings</string>
+    <string name="_23_june">date</string>
+    <string name="post">post</string>
+    <string name="post_time">time</string>
+
+
+    <array name="entries">
+        <item>Sportpesa</item>
+        <item>Bet9ja</item>
+        <item>Betin</item>
+        <item>Betway</item>
+        <item>Elitebet</item>
+
+    </array>
+
+</resources>

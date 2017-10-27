@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "87117019170",
+    "firebase_url": "https://agro-market-f0401.firebaseio.com",
+    "project_id": "agro-market-f0401",
+    "storage_bucket": "agro-market-f0401.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87117019170:android:562867de15822adb",
+        "android_client_info": {
+          "package_name": "com.hansen.agromarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87117019170-kgqp7vq7t683vp6vd1k36v2b5kauc4aa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hansen.agromarket",
+            "certificate_hash": "532a57a4ce788017e9805e72befa7493f96b2471"
+          }
+        },
+        {
+          "client_id": "87117019170-ht7fh8m3ujn7souohjjra0a8jmg2vf44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Mf4txEeiGBRLHJZBGUyvHQyjGmygAQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87117019170-ht7fh8m3ujn7souohjjra0a8jmg2vf44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87117019170:android:d6430bd8251a9462",
+        "android_client_info": {
+          "package_name": "com.hansen.winbet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87117019170-ht7fh8m3ujn7souohjjra0a8jmg2vf44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Mf4txEeiGBRLHJZBGUyvHQyjGmygAQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87117019170:android:2b88e46f1a28c2b5",
+        "android_client_info": {
+          "package_name": "com.hansen.winbetadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87117019170-ht7fh8m3ujn7souohjjra0a8jmg2vf44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Mf4txEeiGBRLHJZBGUyvHQyjGmygAQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87117019170:android:b954a0b52234767d",
+        "android_client_info": {
+          "package_name": "com.hansen.jp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87117019170-ht7fh8m3ujn7souohjjra0a8jmg2vf44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Mf4txEeiGBRLHJZBGUyvHQyjGmygAQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87117019170:android:be7e07d5ada9ae7d",
+        "android_client_info": {
+          "package_name": "com.hansen.jpadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87117019170-ht7fh8m3ujn7souohjjra0a8jmg2vf44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_Mf4txEeiGBRLHJZBGUyvHQyjGmygAQI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
